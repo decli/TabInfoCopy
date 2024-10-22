@@ -1,2 +1,2 @@
 # TabInfoCopy
-copy webpage's tab url and title
+copy webpage tab's url and title
