@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "复制标题和URL",
+  "version": "1.5",
+  "description": "点击扩展图标，复制当前标签页的标题和URL。",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "复制标题和URL"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
